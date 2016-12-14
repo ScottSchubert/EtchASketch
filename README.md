@@ -1,1 +1,1 @@
-# EtchASketch
+jQuery and JS test project
